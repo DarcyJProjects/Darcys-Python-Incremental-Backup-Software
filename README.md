@@ -3,3 +3,5 @@ This python script creates an initial backup of all the files in the user config
 
 Only tested on Windows.
 Start batch script provided for easy running of the script on command prompt.
+
+Will eventually write proper documentation.
