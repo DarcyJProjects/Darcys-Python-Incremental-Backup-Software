@@ -5,3 +5,6 @@ Only tested on Windows.
 Start batch script provided for easy running of the script on command prompt.
 
 Will eventually write proper documentation.
+
+**To Do:**
+- Create a restore script
