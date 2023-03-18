@@ -8,3 +8,5 @@ Will eventually write proper documentation.
 
 **To Do:**
 - Create a restore script
+
+For the record, I do not recommend using this for backups hahaha.
